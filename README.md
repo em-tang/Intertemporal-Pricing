@@ -3,4 +3,4 @@ Here is a template for predicting the optimal price discrimination policy for fo
 
 Here is a representation of our model describing the optimal price policy for New York real estate:
 
-![Alt text](Intertemporal-Pricing/pic2.png?raw=true "Optimal Price Policy over 3-year Period")
+![Alt text](/pic2.png?raw=true "Optimal Price Policy over 3-year Period")
